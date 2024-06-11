@@ -41,3 +41,26 @@ For this task, I extracted and preprocessed issue data for the Tajo project from
 ### Week 2
 
 Started working with group 7.
+
+
+Here's the table for the README file:
+
+---
+
+# Timeline
+
+## Assignment 1 - Group 5
+
+| Name  | Time Spent (hours) | Tasks            |
+|-------|--------------------|------------------|
+| Abhay | 8 + 9 + 9          | Week 1, Week 2, Week 3 |
+
+## Assignment 2 - Group 5
+
+| Name  | Time Spent (hours) | Tasks            |
+|-------|--------------------|------------------|
+| Abhay | 10                 | Week 1           |
+
+---
+
+Feel free to add this to your README file as needed.
