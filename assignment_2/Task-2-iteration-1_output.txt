@@ -1,0 +1,8 @@
+(0, '0.016*"node" + 0.016*"yarn" + 0.015*"service" + 0.015*"support" + 0.014*"rm"')
+(1, '0.044*"container" + 0.037*"containers" + 0.020*"node" + 0.019*"docker" + 0.017*"yarn"')
+(2, '0.033*"yarn" + 0.029*"queue" + 0.019*"resource" + 0.016*"application" + 0.015*"scheduler"')
+(3, '0.024*"rm" + 0.020*"container" + 0.020*"info" + 0.017*"nm" + 0.013*"new"')
+(4, '0.043*"yarn" + 0.018*"support" + 0.012*"application" + 0.011*"services" + 0.011*"jira"')
+(5, '0.026*"yarn" + 0.016*"application" + 0.011*"client" + 0.010*"data" + 0.010*"rm"')
+(6, '0.019*"scheduling" + 0.018*"rm" + 0.017*"yarn" + 0.017*"containers" + 0.017*"cluster"')
+(7, '0.021*"rm" + 0.018*"nm" + 0.013*"yarn" + 0.011*"user" + 0.011*"process"')
