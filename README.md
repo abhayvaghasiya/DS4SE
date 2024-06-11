@@ -37,7 +37,6 @@ I joined group number 7. Here, I worked on assignment 1 and week 4, which were s
 
 For this task, I extracted and preprocessed issue data for the Tajo project from JIRA. I used the `jira` Python library to connect to the JIRA server and constructed a JQL query to fetch the relevant issues. I retrieved essential information such as issue summaries, descriptions, types, statuses, parent issues (if available), and comments. I processed each issue to extract this information, handling special cases like nested fields and multiple comments. I then cleaned the data by removing any illegal characters that could interfere with further analysis. After processing and cleaning the data, I organized it into a pandas DataFrame. Finally, I exported the cleaned data to an Excel file for further analysis.
 
-###Only My contribution to the assignments mentioned here and in the repo.
 
 ### Week 2
 
